@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "298536590839",
+    "project_id": "tailcare",
+    "storage_bucket": "tailcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298536590839:android:07f7074d7ba4821eb8e2f2",
+        "android_client_info": {
+          "package_name": "com.awctail.tailcare_deliveryboy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02CxJw0Ixzp1J2YydpF7YWWWKcAd7rp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298536590839:android:f6194c05d161b29fb8e2f2",
+        "android_client_info": {
+          "package_name": "com.awctail.tailcare_petclinic_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02CxJw0Ixzp1J2YydpF7YWWWKcAd7rp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298536590839:android:f5d3407d83300951b8e2f2",
+        "android_client_info": {
+          "package_name": "com.awctail.tailcare_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02CxJw0Ixzp1J2YydpF7YWWWKcAd7rp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
